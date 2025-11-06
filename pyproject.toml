@@ -14,7 +14,7 @@ authors = [
 
 ]
 readme = "README.md"
-license = {file = 'LICENSE.txt'}
+license = {file = 'LICENSE'}
 classifiers = [
     "Development Status :: 1 - Planning",
     "License :: OSI Approved :: MIT License",
